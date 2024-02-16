@@ -3,7 +3,7 @@ Currently, I have a particular inclination towards programming in Rust, which I 
 
 ## 💻 Technologies I Work With
 
-- Proficient in the following languages: C#, TypeScript, JavaScript, Python, Node.js, LUA, Rust, HTML, and CSS.
+- Proficient in the following languages: C#, TypeScript, JavaScript, Python, Node.js, Lua, Rust, HTML, and CSS.
 - Familiar with frameworks including, but not limited to: React, Express.js, ASP.NET, and .NET Framework.
 - Expertise in managing various types of databases, both relational and non-relational.
 
